@@ -1,0 +1,247 @@
+#join{
+    width: 80px;
+    height: 20px;
+    font-size: 10px;
+    font-weight: bold;
+    color: #fff;
+    background-color: rgb(20, 164, 20);
+    padding: 1px 1px;
+}
+
+.tushar li:hover{
+    color: blue;
+}
+
+.dropdown-menu{
+    background-color: #3a56a1;
+    width:10px;
+    height: 100px;
+}
+#div1{
+    height: 500px;
+    background-color:#3498DB
+   
+}
+#div2{
+    height: 500px;
+    background-color:#F39C12 ;
+}
+
+
+
+.block{
+    background-image: linear-gradient(to left,transparent,transparent 50%,#3A56A1 50%,#3A56A1);
+    background-position: 100% 0;
+    background-size: 200% 100%;
+    transition: all .25s ease-in;
+}
+.block:hover{
+    background-position: 0 0;
+    color:#fff;
+}
+#selection{
+    list-style-image: url('trianle.png');
+    font-size: 20px;
+ }
+#headnav{
+    position: sticky; 
+    top: 0;
+    z-index: 1;
+}
+#logo{
+    width: 30%;
+}
+#headerbar{
+    font-size: 14px; 
+    color: #000; 
+    font-weight: bold;
+}
+#item{
+    font-size: 14px; 
+    color: #fff;
+     text-decoration: underline; 
+     font-weight: bold;
+}
+#aspect{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 60px;
+    color:#fff; 
+    padding-top: 80px; 
+    padding-left: 120px;
+}
+#redirect{
+    font-size: 19px;
+    padding-left: 150px;
+}
+#txt{
+    font-size:60px;
+    font-family: 'Source Sans Pro', sans-serif;
+     color:#000; 
+     padding-top: 80px;
+}
+#p1{
+    font-size: 19px;
+    color: black;
+    font-family: 'Source Sans Pro', sans-serif;
+    
+}
+#aboutlogo{
+    width: 100%;
+}
+#field{
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: #3A56A1;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: 2px solid #000;
+}
+#b1{
+    font-size: 20px;
+}
+#para{
+    text-align: justify;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000;
+}
+#service{
+    background-color: #3A56A1;
+    padding: 40px 20px;
+}
+#s1{
+    font-weight:bolder;
+    color: #fff;
+}
+#qualitative{
+    background-color: #f5ebeb;
+     padding: 10px 20px;
+}
+#quantitative{
+    background-color: #dcebdd; 
+    padding: 10px 20px;
+}
+#otherService{
+    background-color: #f5efd8; 
+    padding: 10px 20px;
+}
+#industry{
+    font-weight:bolder;
+}
+#ind{
+    width: 100%;
+}
+#A1{
+    background-color: #f2f2f2;
+    border: 1px solid #dcdcdc;
+    padding: 10px 20px;
+    margin-top: -1%;
+}
+#coverage{
+    font-weight:bolder;
+}
+#map{
+    border: 2px solid #dcdcdc;
+    width: 100%;
+}
+#C1{
+    background-color: #3A56A1;
+    padding: 38px 20px;
+}
+#C2{
+    color: #fff;
+}
+#Aimg{
+    width: 100%;
+}
+#l1{
+    width: 100%;
+}
+#s1{
+    list-style-type: none; 
+    color: #000; 
+    font-weight: bold;
+}
+#list{
+    list-style-type: none;
+}
+#Q1{
+    color: #F20C78;
+     text-decoration: none;
+      font-weight: bold;
+}
+#simg{
+    width: 15%;
+}
+#f1{
+    height: 50px;
+}
+#f2{
+    padding-left: 120px; 
+    padding-top: 10px; 
+}
+.spandata{
+    font-size: 12px;
+}
+#f3{
+    color: white; 
+    text-decoration: none; 
+    font-size: 12px;
+}
+#QuaImg{
+    width: 100%;
+     height: 350px;
+}
+#get{
+    width: 100px;
+    height: 30px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #fff;
+    padding: 1px 1px;
+}
+#o1{
+    text-align: justify;
+    font-size: 16px;
+    line-height: 24px;
+    color: #fff;
+}
+#w1{
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #fff;
+}
+#con{
+    background-color: #3A56A1;
+    padding: 38px 20px;
+}
+#fontsize{
+    font-size: 16px;
+}
+#es1{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bolder;
+}
+#com{
+    background-color: #f4f4f4;
+}
+#make{
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: #3A56A1;
+    color: #fff;
+}
+#p1{
+    border-right: 1px solid #fff;
+    color: #fff;
+}
+#ads{
+    width: 70%; 
+    height: 500px;
+     margin-top: -8%; 
+    padding-right: 50px; 
+    margin-left: 270px;
+}
+
+ 
+
+
+
